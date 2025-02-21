@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "labo6_gui",
+					"jsonFile" : "directory-labo6_gui-Debug-aa7c7eb4947389527912.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "labo6_gui",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "labo6_tests",
+					"jsonFile" : "directory-labo6_tests-Debug-a47cc7f0c0f0e7984cbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "labo6_tests",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PCO_lab06"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "labo6_lib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "PCO_lab06_gui",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "PCO_lab06_tests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "PCO_lab06_gui::@7ed308be9cf51648872f",
+					"jsonFile" : "target-PCO_lab06_gui-Debug-3a639279d9d348a83549.json",
+					"name" : "PCO_lab06_gui",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "PCO_lab06_gui_autogen::@7ed308be9cf51648872f",
+					"jsonFile" : "target-PCO_lab06_gui_autogen-Debug-7b6c80daf6fe710dff35.json",
+					"name" : "PCO_lab06_gui_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "PCO_lab06_gui_autogen_timestamp_deps::@7ed308be9cf51648872f",
+					"jsonFile" : "target-PCO_lab06_gui_autogen_timestamp_deps-Debug-1ab22a85b9b452f453e9.json",
+					"name" : "PCO_lab06_gui_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "PCO_lab06_tests::@e0453fd178c6df2b3dd3",
+					"jsonFile" : "target-PCO_lab06_tests-Debug-3cc70d13efe764887e95.json",
+					"name" : "PCO_lab06_tests",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "PCO_lab06_tests_autogen::@e0453fd178c6df2b3dd3",
+					"jsonFile" : "target-PCO_lab06_tests_autogen-Debug-7f551143508bcf2461cb.json",
+					"name" : "PCO_lab06_tests_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "PCO_lab06_tests_autogen_timestamp_deps::@e0453fd178c6df2b3dd3",
+					"jsonFile" : "target-PCO_lab06_tests_autogen_timestamp_deps-Debug-3393c3247b641cc2b602.json",
+					"name" : "PCO_lab06_tests_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "labo6_lib::@145eef247bfb46b6828c",
+					"jsonFile" : "target-labo6_lib-Debug-7a3a2ca8b674b8317ea4.json",
+					"name" : "labo6_lib",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug",
+		"source" : "/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

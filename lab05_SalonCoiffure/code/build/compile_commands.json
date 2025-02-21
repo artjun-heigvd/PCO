@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/pco_barbier_autogen/mocs_compilation.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/mocs_compilation.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/pco_barbier_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/src/application.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/application.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/application.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/src/application.cpp.o"
+},
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/src/barber.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/barber.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/barber.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/src/barber.cpp.o"
+},
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/src/client.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/client.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/client.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/src/client.cpp.o"
+},
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/src/main.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/main.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/main.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/src/pcosalon.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/pcosalon.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/pcosalon.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/src/pcosalon.cpp.o"
+},
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/src/utils/display.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/utils/display.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/utils/display.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/src/utils/display.cpp.o"
+},
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/src/utils/graphicsaloninterface.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/utils/graphicsaloninterface.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/utils/graphicsaloninterface.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/src/utils/graphicsaloninterface.cpp.o"
+},
+{
+  "directory": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build",
+  "command": "/usr/lib64/ccache/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/pco_barbier_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtTest -g -std=gnu++17 -fPIC -o CMakeFiles/pco_barbier.dir/src/utils/mainwindow.cpp.o -c /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/utils/mainwindow.cpp",
+  "file": "/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/src/utils/mainwindow.cpp",
+  "output": "CMakeFiles/pco_barbier.dir/src/utils/mainwindow.cpp.o"
+}
+]

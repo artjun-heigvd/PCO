@@ -1,0 +1,4 @@
+/var/lib/snapd/snap/clion/260/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/var/lib/snapd/snap/clion/260/bin/ninja/linux/x64/ninja -G Ninja -S /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code -B /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/cmake-build-debug

@@ -1,0 +1,4 @@
+/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/CMakeFiles/pco_barbier.dir
+/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/CMakeFiles/edit_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/CMakeFiles/rebuild_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab05/pco23_lab05/code/build/CMakeFiles/pco_barbier_autogen.dir

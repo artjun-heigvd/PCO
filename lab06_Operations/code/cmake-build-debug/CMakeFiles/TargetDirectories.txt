@@ -1,0 +1,15 @@
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/src/CMakeFiles/labo6_lib.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_gui/CMakeFiles/PCO_lab06_gui.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_gui/CMakeFiles/edit_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_gui/CMakeFiles/rebuild_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_gui/CMakeFiles/PCO_lab06_gui_autogen_timestamp_deps.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_gui/CMakeFiles/PCO_lab06_gui_autogen.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_tests/CMakeFiles/PCO_lab06_tests.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_tests/CMakeFiles/edit_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_tests/CMakeFiles/rebuild_cache.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_tests/CMakeFiles/PCO_lab06_tests_autogen_timestamp_deps.dir
+/home/ajun/Documents/HEIG/PCO/lab06_Operations/pco23_lab06/code/cmake-build-debug/labo6_tests/CMakeFiles/PCO_lab06_tests_autogen.dir
